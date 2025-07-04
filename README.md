@@ -1,2 +1,32 @@
-# -Dog-vs-Bird-Image-Classifier
+# Dog vs Bird Image Classifier
  simple AI-powered image classification tool that distinguishes between dogs and birds trained by Teachable Machine.
+---
+
+## 📌 What It Does
+
+- Classifies an uploaded image as either a **Dog** or a **Bird**
+- Uses a `.h5` model trained on Teachable Machine
+- Runs fully in Google Colab (no installation required)
+- Outputs the predicted class and confidence score
+
+---
+
+## 🧠 Model Info
+
+- Model type: Image classification
+- Trained on: Custom dataset via [Teachable Machine](https://teachablemachine.withgoogle.com/)
+- Classes: `Dog`, `Bird`
+
+---
+
+## 🚀 How to Use
+
+1. Open the notebook: [`classificationAIModel.ipynb`](classificationAIModel.ipynb) in **Google Colab**
+2. Upload the following files when prompted:
+   - `keras_model.h5`
+   - `labels.txt`
+   - An image (e.g. `dog.jpg`)
+3. Run the cells in order
+4. You'll get output like:
+
+5. 
