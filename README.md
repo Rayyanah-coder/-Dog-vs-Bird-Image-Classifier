@@ -21,7 +21,7 @@
 
 ## 🚀 How to Use
 
-1. Open the notebook: [`classificationAIModel.ipynb`](classificationAIModel.ipynb) in **Google Colab**
+1. Open the notebook: [`classificationAIModel.ipynb`](main.ipynb) in **Google Colab**
 2. Upload the following files when prompted:
    - `keras_model.h5`
    - `labels.txt`
