@@ -28,5 +28,15 @@
    - An image (e.g. `dog.jpg`)
 3. Run the cells in order
 4. You'll get output like:
+![Image](https://github.com/user-attachments/assets/4ac5f434-cf63-44b5-a343-147bc8773927)
 
-5. 
+---
+
+## 🛠 Requirements
+
+You don’t need to install anything! Just open the notebook in **Google Colab** and you're good to go.
+
+Colab installs dependencies automatically:
+- TensorFlow 2.12.1
+- NumPy
+- Pillow
